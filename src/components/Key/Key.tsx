@@ -1,3 +1,7 @@
+// Пример для видое по ключам - https://www.youtube.com/watch?v=OtAlPwW8DNU
+// видео о том, почему нельзя использовать index вместо key
+
+
 import React, { useState, useEffect , useRef } from 'react';
 
 const initialUsers = [

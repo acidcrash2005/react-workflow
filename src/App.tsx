@@ -4,10 +4,7 @@ import Styles from './app.module.css';
 
 import { UseMemo } from './components';
 
-
 function App(): JSX.Element {
-    return <UseMemo />
-
     return (
         <div className='container'>
             <h1>Welcome to react</h1>
